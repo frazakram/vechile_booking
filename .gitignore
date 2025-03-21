@@ -58,3 +58,6 @@ $RECYCLE.BIN/
 
 # React build
 client/build/
+#env
+.env
+myenv2/
